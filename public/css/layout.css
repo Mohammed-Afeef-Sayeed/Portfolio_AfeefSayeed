@@ -12,7 +12,7 @@
    d. Resume Section
    e. Portfolio Section
    f. Call To Action Section
-   g. Testimonials Section
+   g. achievements Section
    h. Contact Section
    i. Footer
 
@@ -641,7 +641,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* g. Testimonials
+/* g. achievements
 /* ------------------------------------------------------------------ */
 
 #achievements {
@@ -665,18 +665,17 @@ call-to-action .button {
    letter-spacing: 3px;
    color: #fff;
 }
-#achievements h1 span { display: none; }
+#achievements h1 span { display: none  ; }
 #achievements .header-col { padding-top: 9px; }
 #achievements .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f091";
    padding-right: 10px;
-   font-size: 72px;
+   font-size: 80px;
    line-height: 72px;
    text-align: left;
    float: left;
    color: #fff;
-   
 }
 
 /* Blockquotes */
@@ -693,7 +692,7 @@ call-to-action .button {
    font-size: 24px;
    line-height: 48px;
    color: #fff;
-   border-bottom: 1px solid #979494;
+   /* border-bottom: 1px solid #979494; */
 }
 #achievements blockquote cite {
    display: block;
