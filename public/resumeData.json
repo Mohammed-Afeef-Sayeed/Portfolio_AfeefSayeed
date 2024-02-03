@@ -14,17 +14,17 @@
       "state": "Telengana",
       "zip": "500074"
     },
-    "website": "http://www.google.com",
-    "resumedownload": "http://google.com",
+    "website": "https://www.google.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1ajk7lKsMxKsgHzyFSws2yNntZ0VDj31A",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com",
+        "url": "https://facebook.com",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com",
         "className": "fa fa-twitter"
       },
       {
@@ -52,36 +52,30 @@
         "degree": "Computer Science Engineering",
         "graduated": "2021-2025",
         "cgpa":"94%",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       },
       {
         "school": "Pine Grove Junior College",
         "degree": "Intermeadiate State Board",
         "graduated": "2019-2021",
         "cgpa":"93.2%",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": ""
       },
       {
         "school": "Kendriya Vidyalaya No.2 Uppal Hyd",
         "degree": "10th (CBSE) ",
         "graduated": "2019",
         "cgpa":"73.6%",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": ""
       }
     ],
 
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Available for Internship",
+        "title": "",
+        "years": "Contact me at the end of the page",
+        "description": ""
       }
     ],
     
@@ -145,6 +139,12 @@
         "category": "A Dashboard which analysis the birth rate of every year",
         "image": "birthRateAnalysis.jpg",
         "url": "https://github.com/Afeef16556/Birth-Rate-Analysis"
+      },
+      {
+        "title": "Todo Application",
+        "category": "A to-do web application is a digital tool designed to help users organize and manage their tasks and responsibilities.",
+        "image": "todoApplication.png",
+        "url": "https://github.com/Mohammed-Afeef-Sayeed/To-Do-Web-Application.git"
       }
     ]
   },
@@ -158,6 +158,9 @@
       },
       {
         "text": "I have participated in Engineering Projects in Community Service(EPICS) conducted in the college, Me and My team have made a Density Based Traffic Management System which works according to the density of Vehicles present in each lane."
+      },
+      {
+        "text": "I have Participated in ICACIA Confernce and yet to publish a Literature Review on Density Based Traffic Management System."
       }
     ]
   }
